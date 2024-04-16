@@ -1,6 +1,6 @@
 # STARTER-jpa03
 
-Running at: <http://jpa03-winbertzhang.dokku-04.cs.ucsb.edu>
+Running at: <https://jpa03-winbertzhang.dokku-04.cs.ucsb.edu/>
 
 # Configuring GitHub Pages for the documentation
 
